@@ -1,0 +1,11 @@
+<Project>
+	<PropertyGroup>
+		<TargetFrameworks>net8.0-windows</TargetFrameworks>
+		<LangVersion>latest</LangVersion>
+
+		
+		<SpyAssemblyVersion>0.0.1.0</SpyAssemblyVersion>
+		<SpyAssemblyInformationalVersion>v0.0.1</SpyAssemblyInformationalVersion>
+		<SpyAssemblyCopyright>Copyright (C) 2024 NiTiSon</SpyAssemblyCopyright>
+	</PropertyGroup>
+</Project>
